@@ -3,11 +3,11 @@
 ## Planificación de endpoints.
 
   - Tasks:
-    - Listado: GET /tasks
-    - Obtener una tarea: GET /tasks/{id}
-    - Crear: POST /tasks
-    - Editar: PUT /tasks/{id}
-    - Eliminar: DELETE /tasks/{id} 
-    - Marcar completado:  PUT /tasks/{id}?state=completed
-    - Marcar pendiente: PUT /tasks/{id}?state=pending
+    - Listado: GET /tasks  DONE
+    - Obtener una tarea: GET /tasks/{id}  DONE
+    - Crear: POST /tasks  DONE
+    - Editar: PUT /tasks/{id}  DONE
+    - Eliminar: DELETE /tasks/{id}  DONE
+    - Marcar completado:  PUT /tasks/{id}?state=completed  DONE
+    - Marcar pendiente: PUT /tasks/{id}?state=pending  DONE
     
